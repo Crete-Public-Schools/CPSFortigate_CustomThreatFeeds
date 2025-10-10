@@ -1,4 +1,4 @@
-# Malicious Domains from Nebraska State Patrol - 10/03/2025
+# 10/03/2025 - Malicious Domains from Nebraska State Patrol
 
 # Russian APT Spear Phishing Infrastructure (Domains)
 dizizle.org
@@ -23,3 +23,23 @@ setproxytrue.net
 # Likely China-Based APT Associated Domains
 Railtelindian.in
 techsupport-microsoft.co.in
+
+# 10/10/2025 - Malicious Domains from Nebraska State Patrol
+# Added by Matt Martin 10/10/2025
+
+# SORVEPOTEL Self Propogating Malware Domains
+expansiveuser.com
+imobiliariaricardoparanhos.com
+sorvetenopote.com
+expansiveuser.com
+sorvetenopote.com
+zapgrande.com
+etenopote.com
+expahnsiveuser.com
+sorv.etenopote.com
+sorvetenopotel.com
+casadecampoamazonas.com
+expansivebot.com
+bravexolutions.com
+adoblesecuryt.com
+saogeraldoshoping.com
