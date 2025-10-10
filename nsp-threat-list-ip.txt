@@ -1,4 +1,4 @@
-# Malicious IP Addresses from Nebraska State Patrol - 09/26/2025
+# 09/26/2025 - Malicious IP Addresses from Nebraska State Patrol
 
 45.76.78.105
 195.201.140.189
@@ -7,7 +7,7 @@
 185.76.109.238
 190.104.232.50
 
-# Malicious IP Addresses from Nebraska State Patrol - 10/03/2025
+# 10/03/2025 - Malicious IP Addresses from Nebraska State Patrol
 
 # Russian APT Spear Phishing Infrastructure (IPs)
 37.139.52.41
@@ -35,3 +35,12 @@
 68.69.184.154
 195.85.23.86
 116.204.78.140
+
+# 10/10/2025 - Malicious IP Addresses from Nebraska State Patrol
+# Added by Matt Martin 10/10/2025
+
+23.227.203.179
+140.99.164.81
+92.246.130.15
+149.28.13.227 # Russian APT
+123.168.0.50 # Chinese APT - SILVERFOX
