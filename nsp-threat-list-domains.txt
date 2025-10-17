@@ -43,3 +43,15 @@ expansivebot.com
 bravexolutions.com
 adoblesecuryt.com
 saogeraldoshoping.com
+
+# 10/17/2025 - Malicious Domains from Nebraska State Patrol
+# Added by Matt Martin 10/17/2025
+
+Ajayplamingo.com # North Korean APT domain
+Rentyourmac.xyz # North Korean APT domain
+api.zoomsdk.us # North Korean APT domain
+zoom-tech.us # North Korean APT domain
+usweb08.us # North Korean APT domain
+web071zoom.us # North Korean APT domain
+hyperitm.com # North Korean APT domain
+communicationhub.vip # North Korea APT domain
