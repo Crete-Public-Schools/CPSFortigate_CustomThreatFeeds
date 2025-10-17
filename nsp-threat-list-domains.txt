@@ -1,3 +1,4 @@
+##############################################################################
 # 10/03/2025 - Malicious Domains from Nebraska State Patrol
 
 # Russian APT Spear Phishing Infrastructure (Domains)
@@ -23,7 +24,10 @@ setproxytrue.net
 # Likely China-Based APT Associated Domains
 Railtelindian.in
 techsupport-microsoft.co.in
+##############################################################################
 
+
+##############################################################################
 # 10/10/2025 - Malicious Domains from Nebraska State Patrol
 # Added by Matt Martin 10/10/2025
 
@@ -43,7 +47,10 @@ expansivebot.com
 bravexolutions.com
 adoblesecuryt.com
 saogeraldoshoping.com
+##############################################################################
 
+
+##############################################################################
 # 10/17/2025 - Malicious Domains from Nebraska State Patrol
 # Added by Matt Martin 10/17/2025
 
@@ -56,3 +63,4 @@ usweb08.us
 web071zoom.us
 hyperitm.com
 communicationhub.vip
+##############################################################################
