@@ -1,3 +1,4 @@
+##############################################################################
 # 09/26/2025 - Malicious IP Addresses from Nebraska State Patrol
 
 45.76.78.105
@@ -35,7 +36,10 @@
 68.69.184.154
 195.85.23.86
 116.204.78.140
+##############################################################################
 
+
+##############################################################################
 # 10/10/2025 - Malicious IP Addresses from Nebraska State Patrol
 # Added by Matt Martin 10/10/2025
 
@@ -44,37 +48,57 @@
 92.246.130.15
 149.28.13.227 # Russian APT
 123.168.0.50 # Chinese APT - SILVERFOX
+##############################################################################
 
 
+##############################################################################
 # 10/17/2025 - Malicious IP Addresses from Nebraska State Patrol
 # Added by Matt Martin 10/17/2025
 
-185.82.202.34 # Russian APT
-38.110.228.112 # North Korean APT
-23.254.204.38 # North Korean APT
-2607:5500:3000:575::2 # North Korean APT
-46.249.49.126 # Russian APT
-213.109.147.186 # Russian APT
-210.2.64.5 # Likely Cobalt Strike Server from Vietnam
-103.122.221.199 # Likely Cobalt Strike Server from Vietnam
-47.122.1.243 # Likely Cobalt Strike Server from China
-101.201.247.232 # Likely Cobalt Strike Server from China
-43.143.48.234 # Likely Cobalt Strike Server from China
-61.129.101.67 # Likely Cobalt Strike Server from China
-124.70.47.247 # Likely Cobalt Strike Server from China
-121.41.63.119 # Likely Cobalt Strike Server from China
-129.227.155.200 # Likely Cobalt Strike Server from China
-154.92.14.41 # Likely Cobalt Strike Server from China
-106.14.213.29 # Likely Cobalt Strike Server from China
-115.190.90.233 # Likely Cobalt Strike Server from China
-117.72.107.255 # Likely Cobalt Strike Server from China
-154.8.160.34 # Likely Cobalt Strike Server from China
-101.36.127.225 # Likely Cobalt Strike Server from China
-185.158.94.217 # Likely Cobalt Strike Server from Syria
-213.6.90.229 # Likely Cobalt Strike Server from Palestine
-93.149.53.250 # Likely Cobalt Strike Server from Italy
-211.77.229.54 # Likely Cobalt Strike Server from Taiwan
-180.214.201.225 # Likely Cobalt Strike Server from Thailand
-103.27.203.234 # Likely Cobalt Strike Server from Thailand
-129.227.230.13 # Likely Cobalt Strike Server from Thailand
+# Russian APT IPs
+185.82.202.34
+46.249.49.126 
+213.109.147.186
+
+# North Korean APT IPs
+38.110.228.112 
+23.254.204.38
+2607:5500:3000:575::2
+
+# Cobalt Strike IPs from Vietnam
+210.2.64.5 
+103.122.221.199 
+
+# Cobalt Strike IPs from China
+47.122.1.243 
+101.201.247.232
+43.143.48.234
+61.129.101.67
+124.70.47.247
+121.41.63.119
+129.227.155.200
+154.92.14.41
+106.14.213.29
+115.190.90.233
+117.72.107.255
+154.8.160.34
+101.36.127.225
+
+# Cobalt Strike IPs from Thailand
+180.214.201.225
+103.27.203.234
+129.227.230.13
+
+# Cobalt Strike IP from Syria
+185.158.94.217
+
+# Cobalt Strike IP from Palestine
+213.6.90.229
+
+# Cobalt Strike IP from Italy
+93.149.53.250
+
+# Cobalt Strike IP from Taiwan
+211.77.229.54
+##############################################################################
 
