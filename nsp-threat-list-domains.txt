@@ -64,3 +64,14 @@ web071zoom.us
 hyperitm.com
 communicationhub.vip
 ##############################################################################
+
+
+##############################################################################
+# 10/24/2025 - Malicious Domains from Nebraska State Patrol
+# Added by Matt Martin 10/24/2025
+
+fields-multi-websites-offered.trycloudflare.com
+drygmetal.ru
+telegram.me
+te.legra.ph
+
