@@ -77,4 +77,17 @@ te.legra.ph
 
 # Russian Cyber Actor
 abcd.na4u.ru
+##############################################################################
 
+
+##############################################################################
+# 10/31/2025 - Malicious Domains from Nebraska State Patrol
+# Added by Matt Martin 10/31/2025
+
+# North Korean APT
+uk03web.us
+uk07web.us
+uk06web.us
+su05web.us
+bizmeet.org
+bizmeet.pro
