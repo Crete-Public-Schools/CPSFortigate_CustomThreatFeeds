@@ -133,3 +133,16 @@ euweb05-zoom.com
 # 12/19/2025 - Malicious Domains from Nebraska State Patrol
 # Added by Matt Martin 12/19/2025
 
+# Chinese APT Domains
+aaa.blackwallsheep.com
+account.keepasses.com
+cdn.keepasses.com
+gooogle.giize.com
+gooogle.kozow.com
+iwgcy.anticapitronism.com
+manage.keepasses.com
+mtnl.webredirect.org
+rediffmail.kozow.com
+sitacloud.org
+showmemoney.net
+##############################################################################
