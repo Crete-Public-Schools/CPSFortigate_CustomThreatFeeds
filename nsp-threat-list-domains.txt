@@ -126,5 +126,10 @@ us05-zoom.com
 euweb05-zoom.us
 us01web-zoom.com 
 euweb05-zoom.com 
-us06-zoom.uk
 ##############################################################################
+
+
+##############################################################################
+# 12/19/2025 - Malicious Domains from Nebraska State Patrol
+# Added by Matt Martin 12/19/2025
+
