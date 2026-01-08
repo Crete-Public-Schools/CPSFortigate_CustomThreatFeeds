@@ -146,3 +146,12 @@ rediffmail.kozow.com
 sitacloud.org
 showmemoney.net
 ##############################################################################
+
+
+##############################################################################
+# 01/02/2026 - Malicious Domains from Nebraska State Patrol
+# Added by Matt Martin 01/08/2026
+
+# Mozie Botnet Domain
+api.blockpredictor.com
+##############################################################################
