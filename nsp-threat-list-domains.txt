@@ -155,3 +155,13 @@ showmemoney.net
 # Mozie Botnet Domain
 api.blockpredictor.com
 ##############################################################################
+
+
+
+##############################################################################
+# 01/23/2026 - Malicious Phishing Campaign from Nebraska State Patrol
+# Added by Matt Martin 01/23/2026
+
+# U//FOUO Situational Awareness Bulletin
+ammansydrdadicalakq.xyz
+##############################################################################
