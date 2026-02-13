@@ -165,3 +165,48 @@ api.blockpredictor.com
 # U//FOUO Situational Awareness Bulletin
 ammansydrdadicalakq.xyz
 ##############################################################################
+
+
+##############################################################################
+# 02/13/2026 - Malicious Phishing Campaign from Nebraska State Patrol
+# Added by Matt Martin 02/13/2026
+
+# Evilginx Infrastructure Used by Russian APT Actors
+partizancryptobox.com 
+orderinsec.net 
+forcelistcon.com 
+dotdotdotdota.online 
+soypiqcha.info 
+missiondecarbonise.com 
+gotoprintselected.org 
+yehmaways.com 
+owntrywad.com 
+acmathj.org 
+netyintry.com 
+documentviewer.online 
+viewerdoconline.com 
+psybehavconf.com 
+oxheyfinance.com 
+rosemountssolutionss.com 
+truscottmanagement.com 
+gelaspcog.org 
+inspectguarantee.org 
+protondecrypt.com 
+proton-decrypt.com 
+harmenganaleng.com 
+nextgenscloud.com 
+seconlineviewer.com 
+waygetfirst.net 
+ipappservice.com 
+socalstrategy.info 
+levtawrig.eu 
+documentsec.online 
+viewerdoc.online 
+onlineviewerdoc.com 
+southprovesolutions.com 
+bodoxtses.info 
+reftospy.com 
+ashtaupal.org 
+tryledsox.com 
+sobcozsee.com
+##############################################################################
